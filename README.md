@@ -1,7 +1,5 @@
 ### Hi I am Preethi... 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I am an enthusiastic always gets interest in learning new things and experimenting it.
 - 🌱 Currently learning and growing my skillset.
 - 👯 I’m looking for opportunity to become a software developer
